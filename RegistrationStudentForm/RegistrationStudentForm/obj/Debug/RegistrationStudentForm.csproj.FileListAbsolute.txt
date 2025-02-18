@@ -1,0 +1,10 @@
+C:\Users\lenovo 2023\Desktop\MyProjectCS\ProjectTwo\RegistrationStudentForm\RegistrationStudentForm\bin\Debug\RegistrationStudentForm.exe.config
+C:\Users\lenovo 2023\Desktop\MyProjectCS\ProjectTwo\RegistrationStudentForm\RegistrationStudentForm\bin\Debug\RegistrationStudentForm.exe
+C:\Users\lenovo 2023\Desktop\MyProjectCS\ProjectTwo\RegistrationStudentForm\RegistrationStudentForm\bin\Debug\RegistrationStudentForm.pdb
+C:\Users\lenovo 2023\Desktop\MyProjectCS\ProjectTwo\RegistrationStudentForm\RegistrationStudentForm\obj\Debug\RegistrationStudentForm.csprojAssemblyReference.cache
+C:\Users\lenovo 2023\Desktop\MyProjectCS\ProjectTwo\RegistrationStudentForm\RegistrationStudentForm\obj\Debug\RegistrationStudentForm.Form1.resources
+C:\Users\lenovo 2023\Desktop\MyProjectCS\ProjectTwo\RegistrationStudentForm\RegistrationStudentForm\obj\Debug\RegistrationStudentForm.Properties.Resources.resources
+C:\Users\lenovo 2023\Desktop\MyProjectCS\ProjectTwo\RegistrationStudentForm\RegistrationStudentForm\obj\Debug\RegistrationStudentForm.csproj.GenerateResource.cache
+C:\Users\lenovo 2023\Desktop\MyProjectCS\ProjectTwo\RegistrationStudentForm\RegistrationStudentForm\obj\Debug\RegistrationStudentForm.csproj.CoreCompileInputs.cache
+C:\Users\lenovo 2023\Desktop\MyProjectCS\ProjectTwo\RegistrationStudentForm\RegistrationStudentForm\obj\Debug\RegistrationStudentForm.exe
+C:\Users\lenovo 2023\Desktop\MyProjectCS\ProjectTwo\RegistrationStudentForm\RegistrationStudentForm\obj\Debug\RegistrationStudentForm.pdb
